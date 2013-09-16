@@ -2,3 +2,7 @@ MyDate
 ======
 
 Calculate the date
+MyDate can do this:
+    1. Calculate the numberof days between two dates.
+    2. Given a date, return the week.
+    3. Given year and month, using an array of characters to generate the month calendar.
